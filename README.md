@@ -4,7 +4,7 @@ API REST para sistema de flashcards com autenticação JWT.
 
 ## 🚀 Tecnologias
 
-- **Java 17**
+- **Java 25**
 - **Spring Boot 4.0.0**
 - **Spring Security** - Autenticação e autorização
 - **Spring Data JPA** - Persistência de dados
@@ -97,7 +97,7 @@ api.security.token.expiration-hours=2
 
 ### Pré-requisitos
 
-- Java 17 ou superior
+- Java 25
 - Maven 3.6+ (ou use o Maven Wrapper incluído)
 
 ### Executar a aplicação
