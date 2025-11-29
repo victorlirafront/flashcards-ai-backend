@@ -1,7 +1,5 @@
 # Flashcards API - Backend
 
-API REST para sistema de flashcards com autenticação JWT.
-
 ## 🚀 Tecnologias
 
 - **Java 25**
